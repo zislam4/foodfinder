@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Add an Event - Tufts Free Food Finder</title>
+	<link href="./css/bootstrap.min.css" rel="stylesheet">
+	<link href="./css/style.css" rel="stylesheet">
+</head>
+<body>
+
+	<div class="container">
+      	<div class="header clearfix">
+        	<nav>
+          		<ul class="nav nav-pills pull-right">
+            		<!-- <li role="presentation" class="active"><a href="#">Home</a></li> -->
+            		<!-- <li role="presentation"><a href="#">About</a></li>
+            		<li role="presentation"><a href="#">Contact</a></li> -->
+          		</ul>
+        	</nav>
+        	<h3 class="text-muted big brown center">Tufts Free Food Finder</h3>
+      </div>
+<!--Above copied from homepage for consistency-->
+
+
+	<h3>Add an event</h3>
+	<form action="https://frozen-shelf-9907.herokuapp.com/addEvent" method="post">
+		<ul>
+			<li>Event Name<span class="pull-right"><input type="text" name="eventname" placeholder="Enter event name"></input></span></li><br/>
+			<li>Date<span class="pull-right"><input type="text" name="date" placeholder="yyyy-mm-dd"></input></span></li><br/>
+			<li>Location<span class="pull-right"><input type="text" name="location" placeholder="e.g. Res Quad"></input></span></li><br/>
+			<li>Start time<span class="pull-right"><input type="text" name="starttime" placeholder="hh:mm"></input></span></li><br/>
+			<li>End time<span class="pull-right"><input type="text" name="endtime" placeholder="hh:mm"></input></span></li><br/>
+			<li>Description -  Tell us a little more about it<span class="pull-right"><input type="text" name="details" placeholder="Tell us about your event"></input></span></li><br/>
+		</ul>
+			<input type="submit" value="Add Event!"></input> 
+	</form>
+</body>
+</html>
