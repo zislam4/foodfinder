@@ -4,8 +4,6 @@
 # Free Food Finder 
 ###### By: Gabe Terrell, Khuyen Bui, and Zabir Islam ######
 
-##### View at http://tuftsdev.github.io/comp20-spring2015-team2/ #####
-
 ###Problem Statement###
 
 There are two abundant resources on this campus:
@@ -50,10 +48,3 @@ We have to collect data about events in two ways:
 ###Mock-Ups###
 ![Mock-up Images][mockup1]
 ![Mock-up Images][mockup2]
-
-#Comments by Ming
-1. "Some sort of Data Scraping API (Still in the works)" --Not specific enough. Data scraping can be a nightmare.
-2. What you listed for features are not features. Briefly describe for what will you be using SMS, reporting, geolocation, etc. for.
-3. Fantastic idea
-4. "Scrape events from Tufts social media and e-lists" --where?  Be more specific.
-5. Overall: 13 / 15
