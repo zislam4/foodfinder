@@ -3,6 +3,7 @@
 
 # Free Food Finder 
 ###### By: Gabe Terrell, Khuyen Bui, and Zabir Islam ######
+http://zislam4.github.io/foodfinder/
 
 ###Problem Statement###
 
