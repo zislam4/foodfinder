@@ -1,9 +1,8 @@
 [mockup1]: readmeFiles/DesktopHome.png
 [mockup2]: readmeFiles/MobileHome.png
 
-# Free Food Finder 
-###### By: Gabe Terrell, Khuyen Bui, and Zabir Islam ######
-http://zislam4.github.io/foodfinder/
+# [Free Food Finder](http://zislam4.github.io/foodfinder/)
+###### By: [Gabe Terrell](https://github.com/gabe-terrell), [Khuyen Bui](https://github.com/khuyenbui), and [Zabir Islam](https://github.com/zislam4) ######
 
 ###Problem Statement###
 
